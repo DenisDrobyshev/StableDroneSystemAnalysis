@@ -1,5 +1,11 @@
 # Система анализа устойчивости динамических систем БПЛА
 
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c)]()
+[![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6F00)]()
+
 ## Техническая документация
 
 ### Содержание
